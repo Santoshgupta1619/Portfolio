@@ -27,7 +27,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://www.instagram.com/YOUR_USERNAME"
+            href="https://www.instagram.com/santosh_guptaa_/"
             target="_blank"
             rel="noreferrer"
             aria-label="Instagram"
@@ -36,7 +36,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://x.com/YOUR_USERNAME"
+            href="https://x.com/santosh_gupta19"
             target="_blank"
             rel="noreferrer"
             aria-label="Twitter"
