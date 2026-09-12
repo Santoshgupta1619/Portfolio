@@ -4,7 +4,7 @@ const projects = [
     title: "The India Technology Guide",
     featured: true,
     description:
-      "A full-stack technology blogging platform where users can read, search, like, bookmark and comment on articles.",
+      "The India Technology Guide is a full-stack technology blogging platform where users can discover, read, search, and interact with technology articles. It includes secure authentication, article publishing, categories and tags, likes, bookmarks, comments, content sharing, and a rich-text editor for creating and managing articles.",
     technologies: ["React", "Node.js", "Express.js", "MySQL"],
     github: "https://github.com/Santoshgupta1619/Blog_App",
     live: "",
@@ -14,7 +14,7 @@ const projects = [
     id: 2,
     title: "Doctor Appointment App",
     description:
-      "A full-stack web application for booking and managing doctor appointments.",
+      "Doctor Appointment App is a full-stack healthcare appointment platform that allows patients to explore available doctors, view doctor details, and book appointments online. The application includes user authentication, appointment management, and separate functionality for patients and doctors.",
     technologies: ["React", "Node.js", "Express.js", "MongoDB"],
     github: "",
     live: "",
@@ -24,7 +24,7 @@ const projects = [
     id: 3,
     title: "URL Abuse Prevention",
     description:
-      "A web application that checks URLs and helps identify potentially unsafe or malicious links.",
+      "URL Abuse Prevention is a web-based security application that analyzes URLs and helps users identify potentially malicious, phishing, or unsafe links. The application integrates external security APIs to evaluate URL risk and provides users with a risk assessment before they visit a suspicious website.",
     technologies: ["React", "Node.js", "Express.js", "MongoDB"],
     github: "https://github.com/Santoshgupta1619/url-abuse-prevention",
     live: "",
